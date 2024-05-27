@@ -1,0 +1,11 @@
+{
+  "name": "tt-exceljs",
+  "version": "1.0.0",
+  "description": "读取或导出excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helloKTT",
+  "license": "ISC"
+}
